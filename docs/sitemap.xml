@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wiki.wuhanstudio.cc/simulation/carla/</loc>
+    <loc>https://wuhanstudio.github.io/wiki/simulation/carla/</loc>
   </url><url>
-    <loc>https://wiki.wuhanstudio.cc/simulation/lgsvl/</loc>
+    <loc>https://wuhanstudio.github.io/wiki/simulation/lgsvl/</loc>
   </url><url>
-    <loc>https://wiki.wuhanstudio.cc/simulation/gazebo/</loc>
+    <loc>https://wuhanstudio.github.io/wiki/simulation/gazebo/</loc>
   </url><url>
-    <loc>https://wiki.wuhanstudio.cc/simulation/omniverse/</loc>
+    <loc>https://wuhanstudio.github.io/wiki/simulation/omniverse/</loc>
   </url><url>
-    <loc>https://wiki.wuhanstudio.cc/simulation/airsim/</loc>
+    <loc>https://wuhanstudio.github.io/wiki/simulation/airsim/</loc>
   </url><url>
-    <loc>https://wiki.wuhanstudio.cc/</loc>
+    <loc>https://wuhanstudio.github.io/wiki/</loc>
   </url><url>
-    <loc>https://wiki.wuhanstudio.cc/categories/</loc>
+    <loc>https://wuhanstudio.github.io/wiki/categories/</loc>
   </url><url>
-    <loc>https://wiki.wuhanstudio.cc/cloudapi/</loc>
+    <loc>https://wuhanstudio.github.io/wiki/cloudapi/</loc>
   </url><url>
-    <loc>https://wiki.wuhanstudio.cc/control/</loc>
+    <loc>https://wuhanstudio.github.io/wiki/control/</loc>
   </url><url>
-    <loc>https://wiki.wuhanstudio.cc/digital/</loc>
+    <loc>https://wuhanstudio.github.io/wiki/digital/</loc>
   </url><url>
-    <loc>https://wiki.wuhanstudio.cc/interpretability/</loc>
+    <loc>https://wuhanstudio.github.io/wiki/interpretability/</loc>
   </url><url>
-    <loc>https://wiki.wuhanstudio.cc/localization/</loc>
+    <loc>https://wuhanstudio.github.io/wiki/localization/</loc>
   </url><url>
-    <loc>https://wiki.wuhanstudio.cc/perception/</loc>
+    <loc>https://wuhanstudio.github.io/wiki/perception/</loc>
   </url><url>
-    <loc>https://wiki.wuhanstudio.cc/physical/</loc>
+    <loc>https://wuhanstudio.github.io/wiki/physical/</loc>
   </url><url>
-    <loc>https://wiki.wuhanstudio.cc/planning/</loc>
+    <loc>https://wuhanstudio.github.io/wiki/planning/</loc>
   </url><url>
-    <loc>https://wiki.wuhanstudio.cc/prediction/</loc>
+    <loc>https://wuhanstudio.github.io/wiki/prediction/</loc>
   </url><url>
-    <loc>https://wiki.wuhanstudio.cc/quantization/</loc>
+    <loc>https://wuhanstudio.github.io/wiki/quantization/</loc>
   </url><url>
-    <loc>https://wiki.wuhanstudio.cc/robustness/</loc>
+    <loc>https://wuhanstudio.github.io/wiki/robustness/</loc>
   </url><url>
-    <loc>https://wiki.wuhanstudio.cc/simulation/</loc>
+    <loc>https://wuhanstudio.github.io/wiki/simulation/</loc>
   </url><url>
-    <loc>https://wiki.wuhanstudio.cc/tags/</loc>
+    <loc>https://wuhanstudio.github.io/wiki/tags/</loc>
   </url>
 </urlset>
