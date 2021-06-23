@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://wiki.wuhanstudio.cc/"
+baseURL = "https://wuhanstudio.github.io/wiki/"
 # theme
 theme = "dot"
 # site title
