@@ -4,6 +4,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   {{ hugo.Generator }}
   <meta name="description" content="{{ .Title }} - {{ .Site.Title }} ">
+
+  {{ if .Params.math }}{{ partial "katex.html" . }}{{ end }}
   
   {{ "<!-- ** CSS Plugins Needed for the Project ** -->" | safeHTML }}
   
